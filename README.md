@@ -53,7 +53,7 @@
       const response = await fetch('https://api.telegram.org/botВАШ_ТОКЕН_БОТА/getMe');
       const data = await response.json();
 
-      // Обновите ваши HTML-элементы полученными данными
+      Обновите ваши HTML-элементы полученными данными
       document.getElementById('date').textContent = data.result.time;
       document.getElementById('time').textContent = data.result.date;
       document.getElementById('master').textContent = data.result.name;
