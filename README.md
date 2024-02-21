@@ -31,7 +31,7 @@
 
       p {
           margin: 10px 0;
-          font-size: 30px;
+          font-size: 20px;
       }
   </style>
 </head>
