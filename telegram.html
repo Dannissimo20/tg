@@ -24,7 +24,6 @@
           img {
               position: absolute;
               top: -100px;
-              left: -50px;
               height: 100px;
           }
       }
