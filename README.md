@@ -50,7 +50,7 @@
 
   async function fetchData() {
     try {
-      const response = await fetch('https://api.telegram.org/botВАШ_ТОКЕН_БОТА/getMe');
+      const response = await fetch('https://api.telegram.org/bot6678468580:AAFFzk3hF3rwz0GIuUCQIKkQk4weMqBMHGI/getMe');
       const data = await response.json();
 
       Обновите ваши HTML-элементы полученными данными
